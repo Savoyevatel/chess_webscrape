@@ -1,6 +1,6 @@
 # Chess Openings App
 
-A web application for browsing and saving chess openings. Visit https://chessfox.com/chess-openings-list/ for more in depth learning and information!.
+A web application for browsing and saving chess openings for educational purposes. Visit https://chessfox.com/chess-openings-list/ for more in depth learning and information!.
 
 ## Features
 
@@ -22,6 +22,11 @@ A web application for browsing and saving chess openings. Visit https://chessfox
    ```bash
    git clone [https://github.com/your-username/chess-openings-app](https://github.com/Savoyevatel/chess_webscrape).git
    cd chess_webscrape
+
+## TO DO
+
+* Add analytics according to players feedback.
+* Add winrate
 
 ## Demo
 ![gif_fight](gif/gif_chess.gif)
