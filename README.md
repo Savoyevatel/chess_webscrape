@@ -1,6 +1,6 @@
 # Chess Openings App
 
-A web application for browsing and saving chess openings.
+A web application for browsing and saving chess openings. Visit https://chessfox.com/chess-openings-list/ for more in depth learning and information!.
 
 ## Features
 
