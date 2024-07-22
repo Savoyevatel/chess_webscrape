@@ -20,8 +20,8 @@ A web application for browsing and saving chess openings. Visit https://chessfox
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chess-openings-app.git
-   cd chess-openings-app
+   git clone [https://github.com/your-username/chess-openings-app](https://github.com/Savoyevatel/chess_webscrape).git
+   cd chess_webscrape
 
 ## Demo
 ![gif_fight](gif/gif_chess.gif)
