@@ -22,3 +22,6 @@ A web application for browsing and saving chess openings.
    ```bash
    git clone https://github.com/your-username/chess-openings-app.git
    cd chess-openings-app
+
+## Demo
+![gif_fight](gif/gif_chess.gif)
