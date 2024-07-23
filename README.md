@@ -26,7 +26,7 @@ A web application for browsing and saving chess openings for educational purpose
 ## TO DO
 
 * Add analytics according to players feedback.
-* Add winrate
+* Add winrate.
 
 ## Demo
 ![gif_fight](gif/gif_chess.gif)
